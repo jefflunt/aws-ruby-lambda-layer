@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'json'
+gem 'oj'
 gem 'rack'
 gem 'rack-contrib'
 gem 'rake'
